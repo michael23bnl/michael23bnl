@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=michael23bnl&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael23bnl)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=michael23bnl)](https://git.io/streak-stats)
 </div>
