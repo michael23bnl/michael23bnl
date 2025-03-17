@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=michael23bnl" height="220" alt="streak graph"  />
-</div>
