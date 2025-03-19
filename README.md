@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-rho-nine-43.vercel.app/api?username=michael23bnl&show_icons=true&hide_border=true" height="220" alt="streak graph"  />
+</div>
+
+###
