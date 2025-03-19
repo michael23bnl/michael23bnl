@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats-rho-nine-43.vercel.app/api?username=michael23bnl&show_icons=true&hide_border=true" height="220" alt="streak graph"  />
 </div>
