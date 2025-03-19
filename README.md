@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ ![snake gif](https://github.com/michael23bnl/michael23bnl/blob/output/github-snake-dark.svg)
 </p>
 
 ###
