@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram"/><a/>
     
    <!-- <a href="mailto:b2seversk70rus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E25747&logoColor=white&labelColor=&style=for-the-badge" height="25"   alt="gmail"  /><a/> -->
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E25747&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail"  /><a/> -->
 
    <a href="mailto:mikhail.malyshev.2002@mail.ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25"   alt="mail"/><a/>
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail"/><a/>
     
   </li>
  </ul> 
@@ -28,7 +28,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="35" alt=".net core" title=".NET Core"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="35" alt="redis" title="Redis"/>
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="35" alt="kafka" title="Kafka"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="elasticsearch" title="Elasticsearch"/> -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="elasticsearch" title="Elasticsearch"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="35" alt="nginx" title="Nginx"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker" title="Docker"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="postman" title="Postman"/>
