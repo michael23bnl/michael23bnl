@@ -28,12 +28,13 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="35" alt=".net core" title=".NET Core"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="redis" title="RabbitMQ"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="35" alt="nginx" title="Nginx"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker" title="Docker"/>
 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres" title="PostgreSQL"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="35" alt="redis" title="Redis"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="elasticsearch" title="Elasticsearch"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres" title="PostgreSQL"/>
+
+<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="35" alt="nginx" title="Nginx"/> -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker" title="Docker"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="postman" title="Postman"/>
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python" title="Python"/> -->
