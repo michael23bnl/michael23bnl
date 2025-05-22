@@ -50,25 +50,25 @@
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm" title="Pycharm"/> -->
 
 <br />
-<!-- <br /> -->
+<br />
 
 ###
 
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" title="JavaScript"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" title="TypeScript"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" title="HTML5"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" title="CSS3"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="next.js" title="Next.js"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" title="React"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="35" alt="npm" title="npm"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="35" alt="redux" title="Redux"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="35" alt="axios" title="Axios"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind" title="Tailwind"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35" alt="vite" title="Vite"/> -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" title="HTML5"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" title="CSS3"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind" title="Tailwind"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" title="JavaScript"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" title="TypeScript"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="35" alt="npm" title="npm"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35" alt="vite" title="Vite"/>
 <!-- <img align="left" src="https://cdn.simpleicons.org/webpack/8DD6F9" height="35" alt="webpack" title="Webpack"/> -->
-<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" alt="vscode" title="Visual Studio Code"/> -->
+<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="35" alt="axios" title="Axios"/> -->
+<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="35" alt="redux" title="Redux"/> -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" title="React"/>
+<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="next.js" title="Next.js"/> -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" alt="vscode" title="Visual Studio Code"/>
 
-<!-- <br /> -->
+<br />
 <!-- <br /> -->
 
 ---
