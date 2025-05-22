@@ -45,7 +45,7 @@
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" title="MongoDB"/> -->
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" alt="git" title="Git"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="35" alt="visual studio" title="Visual Studio"/>
+<!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="35" alt="visual studio" title="Visual Studio"/> -->
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" height="35" alt="rider" title="Rider"/>
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm" title="Pycharm"/> -->
 
