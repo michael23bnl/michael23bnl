@@ -27,8 +27,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" alt="csharp" title="C#"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="35" alt=".net core" title=".NET Core"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="rabbitmq" title="RabbitMQ"/>
 <img align="left" src="https://docs.microsoft.com/sv-se/azure/media/index/azure-signalr.svg" height="35" alt="signalr" title="SignalR"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="rabbitmq" title="RabbitMQ"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres" title="PostgreSQL"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="35" alt="redis" title="Redis"/>
