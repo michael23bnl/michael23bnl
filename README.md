@@ -77,8 +77,8 @@
 
 | Курс                                | Год прохождения |
 |-------------------------------------|:---------------:|
-| <a href="https://stepik.org/cert/2537473" target="_blank">Интерактивный тренажер по SQL, Stepik</a> | 2024            |
-| <a href="https://cloud.mail.ru/attaches/16877678370841787880%3B0%3B1?folder-id=0&x-email=mikhail.malyshev.2002%40mail.ru&cvg=f" target="_blank">Алгоритмы и структуры данных, Тинькофф</a> | 2023            |
+| [Интерактивный тренажер по SQL, Stepik](https://stepik.org/cert/2537473) | 2024            |
+| [Алгоритмы и структуры данных, Тинькофф](https://cloud.mail.ru/attaches/16877678370841787880%3B0%3B1?folder-id=0&x-email=mikhail.malyshev.2002%40mail.ru&cvg=f) | 2023            |
 
 ---
 
