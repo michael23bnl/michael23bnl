@@ -30,7 +30,8 @@
 <img align="left" src="https://docs.microsoft.com/sv-se/azure/media/index/azure-signalr.svg" height="35" alt="signalr" title="SignalR"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="rabbitmq" title="RabbitMQ"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres" title="PostgreSQL"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" title="PostgreSQL"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" title="MongoDB"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="35" alt="redis" title="Redis"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="elasticsearch" title="Elasticsearch"/>
 
