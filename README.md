@@ -30,6 +30,8 @@
 <img align="left" src="https://docs.microsoft.com/sv-se/azure/media/index/azure-signalr.svg" height="35" alt="signalr" title="SignalR"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="rabbitmq" title="RabbitMQ"/>
 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" height="35" alt="grpc" title="gRPC"/>  
+          
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" title="PostgreSQL"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" title="MongoDB"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="35" alt="redis" title="Redis"/>
@@ -38,6 +40,10 @@
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="35" alt="nginx" title="Nginx"/> -->
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker" title="Docker"/>
 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" height="35" alt="opentelemetry" title="OpenTelemetry"/> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="35" alt="prometheus" title="Prometheus"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="35" alt="grafana" title="Grafana"/>
+                   
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="postman" title="Postman"/>
 <!-- <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="35" alt="python" title="Python"/> -->
 
