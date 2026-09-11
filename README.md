@@ -12,11 +12,11 @@
    <a href="https://t.me/michael23bnl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram"/><a/>
     
-   <!-- <a href="mailto:b2seversk70rus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E25747&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail"  /><a/> -->
+   <a href="mailto:bojarinov.my@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E25747&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail"  /><a/> 
 
-   <a href="mailto:mikhail.malyshev.2002@mail.ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail"/><a/>
+   <!-- <a href="mailto:mikhail.malyshev.2002@mail.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=0077ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail"/><a/> -->
     
   </li>
  </ul> 
